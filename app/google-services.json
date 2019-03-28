@@ -1,0 +1,64 @@
+{
+  "project_info": {
+    "project_number": "742555119086",
+    "firebase_url": "https://weatherstationphone.firebaseio.com",
+    "project_id": "weatherstationphone",
+    "storage_bucket": "weatherstationphone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742555119086:android:19362922d3879a94",
+        "android_client_info": {
+          "package_name": "fr.mathisca.weatherstation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742555119086-nn6c5d9ilhkhpjg39skj60bmjma1d47a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fr.mathisca.weatherstation",
+            "certificate_hash": "5b8038683f121aeea55c815408e7d14e273e129a"
+          }
+        },
+        {
+          "client_id": "742555119086-a19j9rjq3po9nl68atqt2fjmjb68m5o3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fr.mathisca.weatherstation",
+            "certificate_hash": "09d4f2659f7698cbbe1f89f866849f678b61243b"
+          }
+        },
+        {
+          "client_id": "742555119086-g1esf9vg1annond1qs4aed8meb8fd7fj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMIVvWB9eunAo02K2jdlzFvlur31cfDUk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "742555119086-g1esf9vg1annond1qs4aed8meb8fd7fj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-3578714154155017~7618688036"
+    }
+  ],
+  "configuration_version": "1"
+}
