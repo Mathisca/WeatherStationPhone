@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">TB9Weather</string>
-    <string name="fcm_token">FCM Token: %s</string>
+    <string name="brightmode">Mode clair</string>
+    <string name="blackmode">Mode sombre</string>
 </resources>
